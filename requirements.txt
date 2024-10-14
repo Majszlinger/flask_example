@@ -1,1 +1,4 @@
 Flask==2.0.3
+flask-cors
+Werkzeug>=2.0.0,<3.0.0
+gunicorn
